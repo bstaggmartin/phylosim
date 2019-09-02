@@ -1,0 +1,2 @@
+# phylosim
+Set of R functions, classes, and methods for efficiently simulating phylogenies with continuous trait data. Unlike other R implementations, this implementation allows lineages to speciate and go extinct in continuous time, despite trait values having to be updated at discrete time points. This should allow for accurately modeling complex feedbacks between trait values and speciation-extinction dynamics. 
